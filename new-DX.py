@@ -29,7 +29,7 @@ Facebook   :DX RONI CHOWDHURY
 Tools   : RANDOM CLONING
 {warna}-----------------------------------------{B}""")
 #---------linex def---------#
-   print(f'{warna}-------------------------{B}')
+ #  print(f'{warna}-------------------------{B}')
    #---------clear def---------#
    def clear():
 	clr('clear')
